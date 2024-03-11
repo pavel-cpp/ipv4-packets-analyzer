@@ -1,7 +1,7 @@
 #include <iostream>
 
-#include "Packets/Analyzer/Analyzer.h"
-#include "Packets/Reader/Reader.h"
+#include "packets/analyzer/analyzer.h"
+#include "packets/reader/reader.h"
 
 using namespace std;
 

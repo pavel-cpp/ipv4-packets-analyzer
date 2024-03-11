@@ -1,4 +1,4 @@
-#include "Analyzer.h"
+#include "analyzer.h"
 
 namespace Packets {
     void Analyzer::AddPacket(const Packet &packet) noexcept {
